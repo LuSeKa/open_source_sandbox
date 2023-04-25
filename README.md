@@ -6,7 +6,8 @@ There is no code here, just this readme file. But that's enough to practice all 
 Go ahead and:
 
 * Fork this repository
-* On your fork, change the readme file by putting in anything you want at the bottom (you can simply say hi).
+* On your fork, click the pencil icon to edit the readme file by putting in anything you want at the bottom (you can simply say hi).
+* Commit your changes to your fork by clickign "Commit changes"
 * Open a pull request so that I can merge your changes.
 
 ##  Put your contribution below!
